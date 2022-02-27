@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The discourse and sad complaints betwixt the French-man and the Irish-man; evidently declaring, that the King was the only cause of the progresse and continuation of the warres in Ireland, to be brought over into England; and that the Queen was the only occasion of the recruits and monies which have been levied, to be transported over from France. With a true narration of the sad successe that hath followed His Majesties armies and doth still keep them company; not onely in the west, but in divers other places, and the great possibility wherein the Parliaments forces are of putting a speedy period to these long and unnaturall wars. VVith a full account of the severall remarkable victories which it hath pleased God of late in divers places to confer on the army of the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81507</idno>
+            <idno type="STC">Wing D1571</idno>
+            <idno type="STC">Thomason E330_26</idno>
+            <idno type="STC">ESTC R200729</idno>
+            <idno type="EEBO-CITATION">99861394</idno>
+            <idno type="PROQUEST">99861394</idno>
+            <idno type="VID">113527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113527)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E330[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The discourse and sad complaints betwixt the French-man and the Irish-man; evidently declaring, that the King was the only cause of the progresse and continuation of the warres in Ireland, to be brought over into England; and that the Queen was the only occasion of the recruits and monies which have been levied, to be transported over from France. With a true narration of the sad successe that hath followed His Majesties armies and doth still keep them company; not onely in the west, but in divers other places, and the great possibility wherein the Parliaments forces are of putting a speedy period to these long and unnaturall wars. VVith a full account of the severall remarkable victories which it hath pleased God of late in divers places to confer on the army of the Parliament.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: foxed, obscuring text.</note>
+                  <note>Annotation on Thomason copy: "Aprill 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Causes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113527:1" rendition="simple:additions"/>
+            <p>THE DISCOURSE AND SAD COMPLAINTS BETWIXT The FRENCH-MAN and the IRISH-MAN: EVIDENTLY Declaring, that the KING was the onely cauſe of the progreſſe and continuation of the warres in <hi>Ireland,</hi> to be brought over into <hi>England;</hi> And that the Queen was the onely occaſion of the Recruits and Monies which have been levied, to be tranſpo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted over from France.</p>
+            <p>With a true Narration of the ſad ſucceſſe that hath followed His Majeſties Armies and doth ſtill keep them company; not onely in the Weſt, but in divers other pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ces, and the great poſſibility wherein the Parliaments Forces are of putting a ſpeedy period to theſe long and unnaturall Wars.</p>
+            <p>VVith a full Account of the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rall remarkable Victories which it hath pleaſed God of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> divers places to confer on the Army of the Parliament.</p>
+            <p>
+               <add>Aprill <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </add> L<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, Pri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted by <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nard Alſop,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:113527:2"/>
+            <pb n="1" facs="tcp:113527:2"/>
+            <head>A Diſcourſe betwixt the Frenchman and an Iriſh-man.</head>
+            <sp>
+               <speaker>French.</speaker>
+               <p>STand! and give the word!</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>'Tis life.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Villain thou lieſt; 'tis death.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>Then life for life or death for both: Take to thy arms; give me the lye: Ile drive that lye through thy heart; of what Nation art thou? ſpeak.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>A French-man and Enſigne to the Regiment of Colonell Ian<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ats.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>The ſame Regiment that plundered all about Lanceſton that lived onely upon Rapine and Ruine whoſe Religion was prophane<g ref="char:EOLhyphen"/>neſſe, whoſe life intemperance and whoſe end damnation, whoſe ho<g ref="char:EOLhyphen"/>neſt recreation was Sodomy and the raviſhing of wives, and maides: It was your common Exerciſe, to force the women from their huſ<g ref="char:EOLhyphen"/>bands Arms and before their faces to raviſh them to death; neither could you be ſatisfied in this your villany, until unto your Luſt you added Murder: Is not this true?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Yes, the murder of their husbands, and that was mercy; for what a grief of heart would it be to them, to remember what was done and with a tame patience to look on us that did it; have you done?</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>The ſame French you are whoſe ſear'd conſciences will ad<g ref="char:EOLhyphen"/>mit of any impiety, and entertaine it with delight and greedineſſe, whoſe di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>courſe is altogether oaths and lyes; oaths as high as Hea<g ref="char:EOLhyphen"/>ven, and lyes as deep as Hell who after you have ſworn a prayer for the King, at the next word with a curſe will damn your ſelves into Hell and like a Legion of Divels and not a Regiment of Men, turn
+<pb n="2" facs="tcp:113527:3"/> all t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e houſes you come to into Stowes, and the Churches into Sta<g ref="char:EOLhyphen"/>bles?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Have you done yet?</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>The ſame French you are one of whoſe Officers being quar<g ref="char:EOLhyphen"/>tered lately at a Widowes houſe in Torrington had all the Dainties provided for him that the countrey could afford; but this bold and unruly Mounſier would not be ſatisfied, but ſo tormented the miſe<g ref="char:EOLhyphen"/>rable poor woman that ſhe was altogether weary of her life and ha<g ref="char:EOLhyphen"/>ving endeavoured to the utmoſt of her power to content him in all things ſhe came one day unto him, beſeeching him to be more pati<g ref="char:EOLhyphen"/>ent &amp; aſſuring him that any viands that could be had for mony ſhold be prepared for him: The French-man fuming and ſwearing in great choller did fling away: ſhe came unto him again with a chi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in her arms, and with tears in her eyes, and with much importunity deſired to know what his pleaſure was promiſing him that if it lay within the compaſſe of her ability, and complyed either with reaſon or with honeſty that he ſhould have it. The inhumane Monſter com<g ref="char:EOLhyphen"/>manded her to ro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt her child, and ſaid that it was onely that that would pleaſe him for his ſupper. The miſerable mother amazed at the horror of the injunction did fall down dead at his foot, and could ne<g ref="char:EOLhyphen"/>ver again be awakened or recovered unto life.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Tis like enough; it ſhews how true a Cannibal is warre where one devours another: but ſay, of what country art thou?</p>
+            </sp>
+            <sp>
+               <speaker>Ir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh.</speaker>
+               <p>Ask my ſword; ſee how the Crimſon-die dwels on the blade, I am a naturall Iriſh.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Naturall: unnaturall Iriſh; the ſhame of Heaven, the ſcourge and plague of Nature: Twas you that firſt let war and fury looſe, where at the foot of peace they ſate on arms, on cruell armes, their hands bound behind them faſt with a thouſand brazen chaines, and roaring forth with bloudy mouths deſtruction: 'Twas you who as inhumane as you are blind make no diſtinction at all betwixt things ſacred and prophane; but as if you would fight with Heaven as well as Man, with moſt impious hands have broke open the Tem<g ref="char:EOLhyphen"/>ples of God and tore to pieces the Records of his ſacred Truth, have flung them in the charnels and ſca<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>red them before the wind who have heard your blaſphemies, and carryed the ſound thereof into every corner of the world.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>It was a zeale that did become us; for which our
+<pb n="3" facs="tcp:113527:3"/> Prieſts have praiſed us, &amp; the Pope hath ſent us many ben<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Twas you that ſpared neither Sex nor perſon, the old, the infants and the middle aged muſt all dy together.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>An act of Iuſtice on the Heretikes.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>The woman great with child you have ript up <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd thrown their off-ſprings in the fire before their faces. There is not ſuch ano<g ref="char:EOLhyphen"/>ther Legend to be read in Hell, as what you have acted.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>Yours is much like it.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>It is: And ſince we are ſo near of kin in ſin, we will a<g ref="char:EOLhyphen"/>gree in affection; put up your ſword, and give me your hand: <hi>For <g ref="char:V">Ʋ</g>ice in friendſhip ſhall with <g ref="char:V">Ʋ</g>ice do<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dwell. And Divels amongſt them<g ref="char:EOLhyphen"/>ſelves agree in Hell:</hi> What Spell brought you hither?</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>The deſire of Honour, and the hope of Gain, that which courts all the world pleaſure: you may adde to this the conſcience of my Allegeance, and the ambition which I nouriſh'd to ſtand high and faire at Court in the eye of Majeſty.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>How can that be and you ſo ſtrong a Catholick: the King hath often made imprecation upon imprecations, that God to deal with Him and His Poſterity, if He will not maintaine the Proteſtant Religion, how can He countenance and imploy us Catholicks, yet ſwear to his laſt to defend the Religion of Geneva.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>Friend you are not ſo ignorant, but you know that <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te is no conſcience to be made in keeping oaths with Hereticks; eſpeci<g ref="char:EOLhyphen"/>ally for the promotion of the Church of Rome, and how eaſily par<g ref="char:EOLhyphen"/>dons are not only granted, but promotions gained from his Holineſſe for ſuch who in this nature ſhall adventure to advance the Catholick Faith is moſt apparent; And this hath not only bin practiſed by Kings and Prelates, and divers others of all Degrees, but the Pope himſelfe hath given an Example for it: For the Pope who hath taken his oath for the advancement of the Church of Rome hath given a ſpeciall prohibition to the Catholicks in England not to take the Oath of Allegeance: And yet on the beginning of the Parliament it being found that this Oath would conduce much to the good of the Catho<g ref="char:EOLhyphen"/>licks in England the Pope himſelf diſpenced with his former Orders and with his Bulls that were ſent <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to give <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> right unto th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, And the Engliſh Re<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> were all permit<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> take the Oath of Allegeance; which the ſtorm being gone, would again be forbidden to them: ſo that Religion of Rome, and the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing looketh onely up<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:113527:4"/> expediency, and depends more upon policy then conſcience. A King (as I have heard) was the Author of this Verſe:
+<q>
+                     <l>Religion is the Righ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of Kings.</l>
+                     <l>And they know beſt what good it brings.</l>
+                  </q>
+               </p>
+               <p>At the peace of Sens in France, King <hi>H.</hi> 3. made an Oath with the Proteſtants, and alowed them in ſome places the free exerciſe of their Religion; but this being but a meer Art of State to draw from them his brother Duke of Alenſon, the Oath immediatly after was broken, And this was done by the counſell of no leſſe then three Biſhops, the B. of Lyons, the B. of Valenciennes, and the B. of Ambrum, and they received this counſell from the Sea and Biſhop of Rome, who at this time was a favourer to this Prince, and afterwards a great Agent in the murder of him, and an applauder of it. So that we ſee in theſe mi<g ref="char:EOLhyphen"/>ſteries of State-affairs, that Popes and Kings do no more regard an Oath then we ſouldier do. And this is one reaſon why we of the Iriſh Nation have bin induced to ſide with his Majeſty, and although we are Catholicks, to adhere to him who is a Proteſtant; For ſhould we have prevailed againſt the Parliament, it were no difficult matter to bring the Religion of Rome into England the King being ſo much obliged to us for our aſſiſtance, and in acknowledgment of it having given us in Ireland the free exerciſe of our Religion ſo that ſo much favour being ſhew'd to us, who would not fight for ſuch a Kin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, we being induced thereunto by a Nuntio from Rome, and that whoſoe<g ref="char:EOLhyphen"/>ver ſhall loſe his life in this ſervice ſhall be ſure to go to Heaven and be numbred in the Catalogue of the Saints. We a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſo hear that the Popes Holineſſe doth call the King of England his beloved Son, and doth always give him his Apoſtolicall Benediction. But alas! to the great grief of our Nation and my ſelf I ſpeak it, the Parliaments Ar<g ref="char:EOLhyphen"/>my do prevail; all our hopes are fruſtrate; our Saints grown deafe; and our fears grown ſtrong: we ſee the Enemy before us, the Sea be<g ref="char:EOLhyphen"/>hind us and on each ſide Deſtruction with out-ſtretched armes rea<g ref="char:EOLhyphen"/>dy to receive us the vengeance aſwell as the horror of our gu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt doth purſue us; and deſpair from below doth hallow to us, to deſcend into that Lake.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>The ſame great Argument which imbark'd you in this bloody and unfortunate ſervice, did at the firſt encourage me: The King perſwaded you; and the Queen perſwaded us: The King pre<g ref="char:EOLhyphen"/>vailed in Ireland, and the Queen in France; And her Agents told us
+<pb n="5" facs="tcp:113527:4"/> that it was a religious and loyall War: religious for the honour of God, and loyall for the ſafety of the Crown, I remember our Prieſts and Ieſuits would preach unto us, that the late warre with Scotland was <hi>Bellum Epiſcopale;</hi> but this war againſt the Parliament was <hi>Bel<g ref="char:EOLhyphen"/>lum Papale;</hi> wherein if the Forces of the Parliament ſhould prevail the ruine of the Roman Religion would enſue; for what likelihood was there, but that thoſe who were ſo violent againſt the ſeats of Bi<g ref="char:EOLhyphen"/>ſhops, would be more eager againſt the Chaire of Rome. Hereupon by the ſolicitation and importunity of the Queen of England, the Pul<g ref="char:EOLhyphen"/>pits in France became as Proſtitutes, all complexions and conditi<g ref="char:EOLhyphen"/>ons of men were wrought upon. To the young men, the pleaſures of Beauty were commended which were ſaid to flouriſh no where more then in this Kingdom. To the Covetous, treaſures of gold. To the Ambitious, hopes of honor and preferment. Had not ſo many recruits arrived from France and Ireland, the war had not continued ſo long; But tell me what ſhall become of theſe Recruits: Inſtead of hopes we are now full of deſpair; for riches we enjoy poverty; for plun<g ref="char:EOLhyphen"/>der nakedneſſe; and whatſoever the iron hand of war can inflict we are ſure to partake off: Our health, our ſtrength, our joy is turned in<g ref="char:EOLhyphen"/>to ſickneſſe weakneſſe, ſorrow, and confuſion of face: Having made ſuch ſpoyl in this, what other Kingdome will receive us; whither ſhall we cary the burden of our ſhame: is there no hope left?</p>
+               <p>Is there no remainder of hope depends on the Lord Hoptons Army?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>None at all! you ſee the Horſe are all diſbanded: firſt our owne Brigade and then afterwards the other 8. England is a place too hot for the Caveleires of the King, therefore they flie into France not ſo much for ſuccour as for ſafety, and to be out of the power of theſe who are to mighty for them.</p>
+               <p>In the meane time his Majeſties Forces in the North, Weſt about Worceſter are vtterly routed and the Lord Aſhly, on whoes courage and Experience his Majeſtie depended ſo much upon is taken priſo<g ref="char:EOLhyphen"/>ner, he was heard to ſay to the Parliament ſouldiers as he ſat upon a Drum-head, and was invirouned with them round about: Gentle<g ref="char:EOLhyphen"/>men you may now ſit downe and fall to play, for you this morning have done all your worke, meaning that he being beaten the King had no Army in the field. You ſee our owne ſouldiers with us are a<g ref="char:EOLhyphen"/>ſhamed of their owne cowardis, and timorous hearts, and much magnify the civility, the reſolution, and the temper of their Adverſa<g ref="char:EOLhyphen"/>ries,
+<pb facs="tcp:113527:5"/> and confeſſe them to be an Army invincible, and not to be fought with.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>But are there no Forces that can come to our aſſiſtance from Oxford, and the Gariſons of the Kings in thoſe parts? Alas! poore ouldiers: whither ſhall we go?</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>Not a man. In the laſt Defeat given to the Lord Aſtley: there were taken, The Lord Aſtley Commander in chief. 3 Colonels, 3 Majors, one Lieut-Colonell 17 Captains, 16 Lieutenants, The Mar<g ref="char:EOLhyphen"/>ſhall Generall, 5 Cornets, 11 Enſigns, 3 quarter-maſters, The Chyrur<g ref="char:EOLhyphen"/>geon, and Sir William Vaughan; Chaplain, 2000 Armes; All their Ammunition, Bag and Baggage.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>In the mean time the recruits expected from France move not at all, they are imployed upon another Deſigne: the Numbers that are going into France are many; thoſe that are coming out of France into England are very few.</p>
+            </sp>
+            <sp>
+               <speaker>French.</speaker>
+               <p>This is not all; for from Newark it is certain, that all things are in preparation for a ſudden ſtorm, and Sir Thomas Fair<g ref="char:EOLhyphen"/>fax being marched Eaſtward (as he will loſe no opportunity) I can<g ref="char:EOLhyphen"/>not ſee how Oxford will be able long to hold out; ſo that of thoſe many Countries, Cities, Towns, and Gariſons, which the King was maſter of not long ſince, all now are contracted into a ſhort, a weak, and a moſt inconſiderable Number: And Scepters devolved from Age to Age which did promiſe themſelves to know no period; doe find all ſtrength is vain that fights againſt GOD.</p>
+            </sp>
+            <sp>
+               <speaker>Iriſh.</speaker>
+               <p>Since this, Exceter is ſummoned, and in great hope they are that it is by this time ſurrendred: The onely ſtrength of the Kings Horſe in the field is beaten, 300 Horſe taken, and almoſt as m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny pri<g ref="char:EOLhyphen"/>ſoners: 3000 of their horſe are commanded Eaſtward, at the news of which Oxford begins to tremble: Its time to be gone from thence, And ſo they ſay the King is; for the report is, that the King miſtru<g ref="char:EOLhyphen"/>ſting himſelf in England, is ſecretly gone into Wales.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
